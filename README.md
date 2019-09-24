@@ -1,5 +1,7 @@
 # ControlTool
 Mercedes James
+9/21/19
+
 This program will create a GUI called create controls that will have 2 buttons 
 that will create IK or FK controls on selected joints
 
